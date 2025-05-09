@@ -38,12 +38,13 @@
     margin-top: 100%;
     left: 50%;
     transform: translateX(-50%);
-    width: 30px;
+    width: 40px;
     height: auto;
     filter: drop-shadow(0 4px 8px rgba(05, 05, 05, 0.6));
   }
 
   p {
+    font-size: 24px;
     color: #e7c00f;
     stroke: 1px solid #fdfdfd;
     font-family: "Poppins", sans-serif;
