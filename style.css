@@ -43,11 +43,16 @@
     filter: drop-shadow(0 4px 8px rgba(05, 05, 05, 0.6));
   }
 
-  p {
+  p.text {
     font-size: 24px;
-    color: #e7c00f;
     stroke: 1px solid #fdfdfd;
     font-family: "Poppins", sans-serif;
+  }
+  p.follow {
+    color: #ebc20d;
+  }
+  p.klike {
+    color: #eb0e0e;
   }
   
   @keyframes scroll {
