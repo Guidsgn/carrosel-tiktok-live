@@ -54,6 +54,9 @@
   p.klike {
     color: #eb0e0e;
   }
+  p.compartilhar {
+    color: #0e75eb;
+  }
   
   @keyframes scroll {
     0% { transform: translateX(0); }
